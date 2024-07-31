@@ -7,8 +7,8 @@
 #include "esp_wifi.h"
 Adafruit_MCP4728 mcp;
 
-const char* ssid = "Pixel_3163";
-const char* password = "wifiplease";
+const char* ssid = "GemLab";
+const char* password = "gemlabdal";
 
 mpr_dev dev = 0;
 mpr_sig inputSignal0 = 0;
